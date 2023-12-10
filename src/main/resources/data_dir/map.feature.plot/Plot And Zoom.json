@@ -1,0 +1,72 @@
+{
+  "channel": "map.feature.plot",
+  "title": "Plot GeoJSON",
+  "labels": [
+    "demo"
+  ],
+  "message": {
+    "overlayId": "demo",
+    "fetureId": "demo",
+    "feature": {
+      "type": "FeatureCollection",
+      "features": [
+        {
+          "type": "Feature",
+          "properties": {},
+          "geometry": {
+            "coordinates": [
+              8.853363816842858,
+              42.369929939886674
+            ],
+            "type": "Point"
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {},
+          "geometry": {
+            "coordinates": [
+              9.29240267647205,
+              42.43194691633684
+            ],
+            "type": "Point"
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {},
+          "geometry": {
+            "coordinates": [
+              [
+                8.665042104550025,
+                42.336840783409286
+              ],
+              [
+                8.724882475571007,
+                42.15183564512205
+              ],
+              [
+                8.97901391723272,
+                42.123167568413095
+              ],
+              [
+                9.315926048896642,
+                42.166329531125456
+              ],
+              [
+                9.469658318782137,
+                42.244691069735296
+              ],
+              [
+                9.434580421519144,
+                42.41529649595233
+              ]
+            ],
+            "type": "LineString"
+          }
+        }
+      ]
+    },
+    "zoom": true
+  }
+}

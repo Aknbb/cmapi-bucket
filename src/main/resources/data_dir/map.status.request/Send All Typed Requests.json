@@ -1,0 +1,15 @@
+{
+  "channel": "map.status.request",
+  "title": "Send All Typed Requests",
+  "labels": [
+    "request"
+  ],
+  "message": {
+    "types": [
+      "view",
+      "about",
+      "format",
+      "selected"
+    ]
+  }
+}

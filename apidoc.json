@@ -1,0 +1,18 @@
+{
+  "name": "CMAPI Bucket",
+  "version": "0.0.1",
+  "description": "CMAPI Bucket REST API document ",
+  "title": "CMAPI Bucket REST API",
+  "url" : "https://example-domain/cmapibucket",
+  "order": [
+    "GetAllMessages",
+    "GetSystemInfo",
+    "AddMessage",
+    "DeleteMessage",
+    "GetChannelMessages"
+  ],
+  "template": {
+    "withCompare": false,
+    "withGenerator": false
+  }
+}
